@@ -1,0 +1,11 @@
+[book]
+authors = ["author"]
+language = "zh"
+src = "src"
+title = "title"
+
+
+
+[output.html]
+git-repository-url = "https://github.com/user/repo"
+edit-url-template = "https://github.com/user/repo/edit/main/{path}"
